@@ -2,8 +2,24 @@
 title: "Publications"
 ---
 
-About this site
 
-```{r}
-1 + 1
-```
+# 2024
+- Sun S, **Sechidis K**, Chen Y, Lu J, Ma C, Mirshani A, Ohlssen D, Vandemeulebroecke M, & Bornkamp B. Comparing algorithms for characterizing treatment effect heterogeneity in randomized trials. Biometrical Journal. 2024; 66, 2100337. doi:[10.1002/bimj.202100337](https://doi.org/10.1002/bimj.202100337)
+
+# 2022
+- Hansen L, Zhang Y-P, Wolf D, **Sechidis K**, Ladegaard N, Fusaroli R. A generalizable speech emotion recognition model reveals depression and remission. Acta Psychiatrica Scandinavica. 2022; 145: 186–199. doi:[10.1111/acps.13388](https://doi.org/10.1111/acps.13388)
+
+# 2021
+- **Sechidis K**, Kormaksson M, Ohlssen D. Using knockoffs for controlled predictive biomarker identification. Statistics in Medicine. 2021; 40(25): 5453–5473. doi:[10.1002/sim.9134](https://doi.org/10.1002/sim.9134)
+
+- **Sechidis K**, Fusaroli R, Orozco-Arroyave JR, Wolf D, Zhang YP. A machine learning perspective on the emotional content of Parkinsonian speech. Artificial Intelligence in Medicine. 2021; 115:102061. 
+doi:[10.1016/j.artmed.2021.102061](https://doi.org/10.1016/j.artmed.2021.102061)
+
+# 2020
+- Moran-Fernandez L, **Sechidis K**, Bolon-Canedo V, Alonso-Betanzos A, Brown G. Feature selection with limited bit depth mutual information for portable embedded systems. Knowledge-Based Systems. 2020; 197:105885. doi:[10.1016/j.knosys.2020.105885](https://doi.org/10.1016/j.knosys.2020.105885)
+
+- Spyromitros-Xioufis E, **Sechidis K**, Vlahavas I. Multi-target regression via output space quantization. International Joint Conference on Neural Networks (IJCNN). 2020. IEEE. doi:[10.1109/IJCNN48605.2020.9206984](https://doi.org/10.1109/IJCNN48605.2020.9206984)
+
+- Morán-Fernández L, Blanco-Mallo E, **Sechidis K**, Alonso-Betanzos A, Bolón-Canedo V.  When Size Matters: Markov Blanket with Limited Bit Depth Conditional Mutual Information. In: Gama, J., et al. IoT Streams for Data-Driven Predictive Maintenance and IoT, Edge, and Mobile for Embedded Machine Learning. ITEM IoT Streams 2020 Communications in Computer and Information Science, vol 1325. Springer, Cham. doi:[10.1007/978-3-030-66770-2_18](https://doi.org/10.1007/978-3-030-66770-2_18)
+
+- Nikolaou, N, **Sechidis, K**. Inferring Causal Direction from Observational Data: A Complexity Approach, Machine Learning for Pharma and Healthcare Applications, ECML PKDD 2020 Workshop (PharML 2020). doi:[10.48550/arXiv.2010.05635](https://doi.org/10.48550/arXiv.2010.05635)

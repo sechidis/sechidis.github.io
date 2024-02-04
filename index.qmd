@@ -26,13 +26,14 @@ about:
 image: img/kostas.jpg
 ---
 
+# About
 I am a machine learning researcher with experience in developing, enhancing and delivering novel statistical and machine learning methods tailored to healthcare analytics. In 2020 I joined [Novartis](https://www.novartis.com/)' Advanced Methodology and Data Science group, which focuses on developing new machine learning methods with the aim of improving drug development in multiple projects. I am member of the editorial board of Machine Learning Journal [(MLJ)](https://www.springer.com/journal/10994/editors) and vice-chair of the technical committee on [Statistical Pattern Recognition Techniques](https://sites.google.com/view/iapr-tc1/home?pli=1) of the International Association for Pattern Recognition [(IAPR)](https://iapr.org/index.php).
 
 I did my PhD in statistical machine learning on the area of hypothesis testing and feature selection in semi-supervised scenarios in the University of Manchester's [Department of Computer Science](https://www.cs.manchester.ac.uk/). Afterwards, I spent many years as post-doctoral researcher on developing novel methodologies for analysing: self-reported epidemiological data with Manchester's [Health e-Research Center](https://www.herc.ac.uk/), clinical trials data for personalised medicine with [AstraZeneca](https://www.astrazeneca.com/) and digital healthcare data for digital biomarker development with [Roche](https://www.roche.com/).
 
 <sup> *Disclaimer: this is my personal page, the content is my own responsibility and it is not connected to/supported by any entity with which I have been, am now, or will be affiliated.* </sup>
 
-### Key research interests
+# Key research interests
 
 -   **Feature selection**
 -   **Information theory**
@@ -40,7 +41,7 @@ I did my PhD in statistical machine learning on the area of hypothesis testing a
 -   **Digital biomarker discovery**
 -   **Multi-target learning**
 
-### News
+# News
 **Nov 2023**: Gave an invited presentation in the European Statistical Forum. This year's topic was: [Statistical Methodology in Precision Medicine and the role of Artificial Intelligence](https://lsacademy.com/en/product/european-statistical-forum-4/).
 
 **Sep 2023**: Present our work on controlled biomarker discovery in the [5th Conference of the Central European Network (CEN)](https://cen2023.github.io/home/index.html).
