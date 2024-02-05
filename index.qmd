@@ -24,6 +24,8 @@ about:
         - text: "{{< ai google-scholar >}} Google Scholar"
           url: https://scholar.google.com/citations?user=zcw9w-wAAAAJ&hl=en
 image: img/kostas.jpg
+toc:true
+toc-depth:1
 ---
 
 # About
