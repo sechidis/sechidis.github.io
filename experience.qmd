@@ -1,0 +1,34 @@
+---
+title: "  "
+---
+
+# Education
+
+**PhD in Machine Learning (2015)**, University of Manchester (UK)\
+Title: Hypothesis Testing and Feature Selection in Semi-Supervised Data\
+Best PhD Thesis Award in the School of Computer Science
+
+**MSc in Information Systems** (2011), Aristotle University of Thessaloniki (Greece)\
+Degree Classification: Distinction (First in the course)
+
+**MSc in Communications and Signal Processing** (2009), Imperial College London (UK)\
+Degree Classification: Distinction
+
+**MEng in Electrical and Computer Engineering** (2006), Aristotle University of Thessaloniki (Greece)\
+Specialisation: Telecommunications, Degree Classification: Top 5% of class
+
+# Research experience
+
+**Current role: Associate Director of Data Science**, Novartis\
+Jun 2020 -- Present: I am member of Novartis' Advanced Methodology and Data Science group focusing on developing new machine learning methods with the aim of improving drug development in multiple projects.
+
+**Data Science Fellow in Digital Biomarkers**, Roche\
+Dec 2018 -- Apr 2020: I worked as a post-doctoral research scientist at Roche pRED (pharma Research and Early Development) in the exciting area of developing digital biomarkers for neurological disorders. For developing digital biomarkers, sensor data (such as motion detection, audio and video) are analysed and, by using advanced machine learning methods, are transformed to meaningful markers. My fellowship focused on developing a speech emotion recognition system as a digital biomarker for patients with Parkinson's disease. I worked both with real-world and clinical trial data and I used machine learning modelling to discover novel insights on the emotional content of the parkinsonian speech. You can find more details in this [presentation](https://www.youtube.com/watch?v=X-8V8FT-M78).
+
+**Data Science Fellow in Personalised Healthcare**, AstraZeneca & University of Manchester\
+My fellowship focused on developing machine learning approaches for predictive biomarker discovery, i.e. biomarkers that convey information over the treatment efficacy. Furthermore, a methodology to quantify the robustness of biomarker discovery algorithms was developed. I worked with two clinical trials, one for treating advanced non-small cell lung cancer (NSCLC) and one for the prevention of cardiovascular disease among patients undergoing chronic hemodialysis.
+
+**Post-doctoral Researcher**, Health e-Research Center & University of Manchester\
+My post-doc focused on developing machine learning techniques for correcting under-reported biases in self-reported epidemiological data. I worked with Born in Bradford database.
+
+**PhD Researcher**, University of Manchester My PhD was in statistical machine learning, and particularly, in developing hypothesis testing and feature selection methods for semi-supervised data. It was funded by the Engineering and Physical Sciences Research Council (EPSRC) and the Propondis Foundation and my supervisor was Professor [Gavin Brown](https://profgavinbrown.github.io/). My PhD awarded the [best thesis](https://studentnet.cs.manchester.ac.uk/pgr/symposium/prizes.php) in the Department of Computer Science, while my work on developing a methodology for sample size determination in partially labelled data got the [best student paper award](https://twitter.com/ecmlpkdd/status/511558738613116928?lang=gl) in ECML/PKDD 2014.

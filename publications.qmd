@@ -18,7 +18,7 @@ title: "Publications"
 
 -   **Sechidis K**, Kormaksson M, Ohlssen D.\
     *Using knockoffs for controlled predictive biomarker identification.*\
-    Statistics in Medicine. 2021; 40(25): 5453--5473. doi:[10.1002/sim.9134](https://doi.org/10.1002/sim.9134)
+    Statistics in Medicine. 2021; 40(25): 5453--5473. doi:[10.1002/sim.9134](https://doi.org/10.1002/sim.9134), [code](https://github.com/sechidis/2021-SiM-Predictive-Knockoffs)
 
 -   **Sechidis K**, Fusaroli R, Orozco-Arroyave JR, Wolf D, Zhang YP.\
     *A machine learning perspective on the emotional content of Parkinsonian speech.*\
@@ -46,11 +46,11 @@ title: "Publications"
 
 -   **Sechidis K**, Azzimonti L, Pocock A, Corani G, Weatherall J, Brown G.\
     *Efficient feature selection using shrinkage estimators.*\
-    Machine Learning Journal (MLJ). 2019; 108: 1261--1286. doi:[10.1007/s10994-019-05795-1](https://doi.org/10.1007/s10994-019-05795-1)
+    Machine Learning Journal (MLJ). 2019; 108: 1261--1286. doi:[10.1007/s10994-019-05795-1](https://doi.org/10.1007/s10994-019-05795-1), [code](https://github.com/sechidis/2019-MLJ-Efficient-feature-selection-using-shrinkage-estimators)
 
 -   **Sechidis K**, Spyromitros-Xioufis E, Vlahavas I.\
     *Information Theoretic Multi-Target Feature Selection via Output Space Quantization.*\
-    Entropy. 2019; 21(9):855. doi:[10.3390/e21090855](https://doi.org/10.3390/e21090855)
+    Entropy. 2019; 21(9):855. doi:[10.3390/e21090855](https://doi.org/10.3390/e21090855), [code](https://github.com/sechidis/2019-Entropy-Multi-target-feature-selection)
 
 -   Bolon-Canedo V, **Sechidis K**, Sanchez-Marono N, Alonso-Betanzos A,Brown G.\
     *Insights into distributed feature ranking.*\
@@ -58,7 +58,7 @@ title: "Publications"
 
 -   **Sechidis K**, Papangelou K, Nogueira S, Weatherall J, Brown G.\
     *On the Stability of Feature Selection in the Presence of Feature Correlations.*\
-    Machine Learning and Knowledge Discovery in Databases. European Conference on Machine Learning and Principles and Practice of Knowledge Discovery (ECML/PKDD) 2019. doi:[10.1007/978-3-030-46150-8_20](https://doi.org/10.1007/978-3-030-46150-8_20).\
+    Machine Learning and Knowledge Discovery in Databases. European Conference on Machine Learning and Principles and Practice of Knowledge Discovery (ECML/PKDD) 2019. doi:[10.1007/978-3-030-46150-8_20](https://doi.org/10.1007/978-3-030-46150-8_20)., [code](https://github.com/sechidis/2019-ECML-Stability-correlations)\
     **Acceptance rate 130/734 (18%)**
 
 -   **Sechidis K**, Spyromitros-Xioufis E, Vlahavas I.\
@@ -69,11 +69,11 @@ title: "Publications"
 
 -   **Sechidis K**, Papangelou K, Metcalfe PD, Svensson D, Weatherall J, Brown G.\
     *Distinguishing prognostic and predictive biomarkers: an information theoretic approach.*\
-    Bioinformatics, 2018; 34(19): 3365--3376. doi:[10.1093/bioinformatics/bty357](https://doi.org/10.1093/bioinformatics/bty357)
+    Bioinformatics, 2018; 34(19): 3365--3376. doi:[10.1093/bioinformatics/bty357](https://doi.org/10.1093/bioinformatics/bty357), [code](https://github.com/sechidis/2018-Bioinformatics-Predictive-Biomarker-Discovery)
 
 -   **Sechidis K**, Brown G.\
     *Simple strategies for semi-supervised feature selection.*\
-    Machine Learning Journal (MLJ). 2018; 107(2): 357-395. doi:[10.1007/s10994-017-5648-2](https://doi.org/10.1007/s10994-017-5648-2)
+    Machine Learning Journal (MLJ). 2018; 107(2): 357-395. doi:[10.1007/s10994-017-5648-2](https://doi.org/10.1007/s10994-017-5648-2), [code](https://github.com/sechidis/2018-MLJ-Semi-supervised-feature-selection)
 
 -   Nogueira S, **Sechidis K**, Brown G.\
     *On the Stability of Feature Selection Algorithms.*\
@@ -85,9 +85,10 @@ title: "Publications"
     **Acceptance rate 92/354 (26%)**
 
 # 2017
+
 -   **Sechidis K**, Sperrin M., Petherick ES, Luján M., Brown, G.\
     *Dealing with under-reported variables: An information theoretic solution.*\
-    International Journal of Approximate Reasoning, 2017. 8;159-177. doi:[10.1016/j.ijar.2017.04.002](https://doi.org/10.1016/j.ijar.2017.04.002)
+    International Journal of Approximate Reasoning, 2017. 8;159-177. doi:[10.1016/j.ijar.2017.04.002](https://doi.org/10.1016/j.ijar.2017.04.002), [code](https://github.com/sechidis/2017-IJAR-Under-reported-variables)
 
 -   Bolon-Canedo V, **Sechidis K**, Sanchez-Marono N, Alonso-Betanzos A, Brown G.\
     *Exploring the consequences of distributed feature selection in DNA microarray data.*\
@@ -154,4 +155,3 @@ title: "Publications"
     *Multi-label machine learning algorithms for automated image annotation.*\
     MSc Thesis, School of Informatics, Aristotle University of Thessaloniki, Greece. [thesis](http://ikee.lib.auth.gr/record/126696?ln=en).\
     Thesis supervisor: Professor [Grigorios Tsoumakas](https://intelligence.csd.auth.gr/people/tsoumakas/).\
-
