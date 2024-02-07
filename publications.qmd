@@ -85,7 +85,6 @@ title: "Publications"
     **Acceptance rate 92/354 (26%)**
 
 # 2017
-
 -   **Sechidis K**, Sperrin M., Petherick ES, Luján M., Brown, G.\
     *Dealing with under-reported variables: An information theoretic solution.*\
     International Journal of Approximate Reasoning, 2017. 8;159-177. doi:[10.1016/j.ijar.2017.04.002](https://doi.org/10.1016/j.ijar.2017.04.002)
