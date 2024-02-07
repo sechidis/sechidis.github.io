@@ -123,7 +123,7 @@ title: "Publications"
     Machine Learning and Knowledge Discovery in Databases. European Conference on Machine Learning and Principles and Practice of Knowledge Discovery (ECML/PKDD) 2015. doi:[10.1007/978-3-319-23528-8_22](https://doi.org/10.1007/978-3-319-23528-8_22).\
     **Acceptance rate 89/383 (23.2%).**
 
--   **Sechidis K**\
+-   **Sechidis K**.\
     *Hypothesis Testing and Feature Selection in Semi-supervised Data.*\
     PhD Thesis, School of Computer Science, University of Manchester, UK. [thesis](https://research.manchester.ac.uk/en/studentTheses/hypothesis-testing-and-feature-selection-in-semi-supervised-data).\
     PhD supervisor: Professor [Gavin Brown](https://profgavinbrown.github.io/).\
@@ -151,7 +151,7 @@ title: "Publications"
     *MLKDs Participation at the CLEF 2011 Photo Annotation and Concept-Based Retrieval Tasks.*\
     ImageClef Lab of CLEF Conference on Multilingual and Multimodal Information Access Evaluation. [paper](http://ceur-ws.org/Vol-1177/CLEF2011wn-ImageCLEF-Spyromitros-XioufisEt2011.pdf)
 
--   **Sechidis K**\
+-   **Sechidis K**.\
     *Multi-label machine learning algorithms for automated image annotation.*\
     MSc Thesis, School of Informatics, Aristotle University of Thessaloniki, Greece. [thesis](http://ikee.lib.auth.gr/record/126696?ln=en).\
     Thesis supervisor: Professor [Grigorios Tsoumakas](https://intelligence.csd.auth.gr/people/tsoumakas/).\
