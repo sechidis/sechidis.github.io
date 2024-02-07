@@ -155,4 +155,3 @@ title: "Publications"
     MSc Thesis, School of Informatics, Aristotle University of Thessaloniki, Greece. [thesis](http://ikee.lib.auth.gr/record/126696?ln=en).\
     Thesis supervisor: Professor [Grigorios Tsoumakas](https://intelligence.csd.auth.gr/people/tsoumakas/).\
 
-# Test
