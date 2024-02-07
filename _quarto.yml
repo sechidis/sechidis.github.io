@@ -4,6 +4,7 @@ project:
 
 website:
   title: "Kostas Sechidis"
+  favicon: /img/thumbnail.png
   navbar:
     left:
       - href: index.qmd
