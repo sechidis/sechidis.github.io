@@ -148,9 +148,9 @@ title: "Publications"
     **Acceptance rate 121/599 (20%).**
 
 -   Spyromitros-Xioufis E, **Sechidis K**, Tsoumakas G, Vlahavas I.\
-    *MLKDs Participation at the CLEF 2011 Photo Annotation and Concept-Based Retrieval Tasks.* \
+    *MLKDs Participation at the CLEF 2011 Photo Annotation and Concept-Based Retrieval Tasks.*\
     ImageClef Lab of CLEF Conference on Multilingual and Multimodal Information Access Evaluation. [paper](http://ceur-ws.org/Vol-1177/CLEF2011wn-ImageCLEF-Spyromitros-XioufisEt2011.pdf)
-    
+
 -   **Sechidis K**\
     *Multi-label machine learning algorithms for automated image annotation.*\
     MSc Thesis, School of Informatics, Aristotle University of Thessaloniki, Greece. [thesis](http://ikee.lib.auth.gr/record/126696?ln=en).\
