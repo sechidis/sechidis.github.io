@@ -29,7 +29,7 @@ image: img/kostas.jpg
 
 Hello, my name is Konstantinos (for short, Kostas) Sechidis and I am a machine learning researcher with experience in developing, enhancing and delivering novel statistical and machine learning methods tailored to healthcare analytics. I work in the Advanced Methodology and Data Science group of [Novartis](https://www.novartis.com/) and I am member of the editorial board of Machine Learning Journal [(MLJ)](https://www.springer.com/journal/10994/editors) and vice-chair of the technical committee on [Statistical Pattern Recognition Techniques](https://sites.google.com/view/iapr-tc1/home?pli=1) of the International Association for Pattern Recognition [(IAPR)](https://iapr.org/index.php).
 
-
+<sup> *Disclaimer: this is my personal page, the content is my own responsibility and it is not connected to/supported by any entity with which I have been, am now, or will be affiliated.* </sup>
 
 
 # News
@@ -49,5 +49,4 @@ Hello, my name is Konstantinos (for short, Kostas) Sechidis and I am a machine l
 -   **Digital biomarker discovery**
 -   **Multi-target learning**
 
-<sup> *Disclaimer: this is my personal page, the content is my own responsibility and it is not connected to/supported by any entity with which I have been, am now, or will be affiliated.* </sup>
 
