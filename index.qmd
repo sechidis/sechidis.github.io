@@ -1,6 +1,6 @@
 ---
 title: "Konstantinos (Kostas) Sechidis"
-description: "Advanced Methodology and Data Science Group, Novartis"
+description: Advanced Methodology and Data Science Group, **Novartis** <br> Honorary Research Fellow in Machine Learning and Robotics, **University of Manchester**
 
 page-layout: full
 about:
@@ -31,7 +31,6 @@ Hello, my name is Konstantinos (for short, Kostas) Sechidis and I am a machine l
 
 <sup> *Disclaimer: this is my personal page, the content is my own responsibility and it is not connected to/supported by any entity with which I have been, am now, or will be affiliated.* </sup>
 
-
 # News
 
 **Nov 2023**: Gave an invited presentation in the European Statistical Forum. This year's topic was: [Statistical Methodology in Precision Medicine and the role of Artificial Intelligence](https://lsacademy.com/en/product/european-statistical-forum-4/).
@@ -43,10 +42,9 @@ Hello, my name is Konstantinos (for short, Kostas) Sechidis and I am a machine l
 **Dec 2022**: Our paper on benchmarking methods for characterising treatment effect heterogeneity in clinical trials published in [Biometrical Journal](https://onlinelibrary.wiley.com/doi/full/10.1002/bimj.202100337). If you are interested on simulating datasets of heterogeneous treatment effects you can check our [benchtm](https://github.com/Sophie-Sun/benchtm) package.
 
 # Key research interests
+
 -   **Feature selection**
 -   **Information theory**
 -   **Biomarker discovery for personalised healthcare**
 -   **Digital biomarker discovery**
 -   **Multi-target learning**
-
-
