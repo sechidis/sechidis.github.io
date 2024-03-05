@@ -3,7 +3,10 @@ title: "Publications"
 ---
 
 # 2024
-
+-    Zimmermann MR, Baillie M, Kormaksson M, Ohlssen D & **Sechidis K**. \
+    *All that Glitters Is not Gold: Type      I Error Controlled Variable Selection from Clinical Trial Data.*\
+    Clinical Pharmacology and Therapeutics. 2024. doi:[10.1002/cpt.3211](https://doi.org/10.1002/cpt.3211)
+    
 -   Sun S, **Sechidis K**, Chen Y, Lu J, Ma C, Mirshani A, Ohlssen D, Vandemeulebroecke M, & Bornkamp B.\
     *Comparing algorithms for characterizing treatment effect heterogeneity in randomized trials.*\
     Biometrical Journal. 2024; 66, 2100337. doi:[10.1002/bimj.202100337](https://doi.org/10.1002/bimj.202100337)
