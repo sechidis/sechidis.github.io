@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://sechidis.github.io/publications.html</loc>
-    <lastmod>2024-03-05T20:36:22.564Z</lastmod>
-  </url>
-  <url>
     <loc>https://sechidis.github.io/index.html</loc>
-    <lastmod>2024-03-05T20:36:22.564Z</lastmod>
+    <lastmod>2024-03-12T12:39:29.401Z</lastmod>
   </url>
   <url>
     <loc>https://sechidis.github.io/experience.html</loc>
-    <lastmod>2024-03-05T20:36:22.560Z</lastmod>
+    <lastmod>2024-03-12T12:39:29.397Z</lastmod>
+  </url>
+  <url>
+    <loc>https://sechidis.github.io/publications.html</loc>
+    <lastmod>2024-03-12T12:39:29.401Z</lastmod>
   </url>
 </urlset>
