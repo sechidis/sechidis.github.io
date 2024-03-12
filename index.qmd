@@ -32,8 +32,9 @@ Hello, my name is Konstantinos (for short, Kostas) Sechidis and I am a machine l
 <sup> *Disclaimer: this is my personal page, the content is my own responsibility and it is not connected to/supported by any entity with which I have been, am now, or will be affiliated.* </sup>
 
 # News
-**March 2024**: A new paper, [All that Glitters Is not Gold: Type-I Error Controlled Variable Selection from Clinical Trial Data](https://ascpt.onlinelibrary.wiley.com/doi/full/10.1002/cpt.3211), published in Clinical Pharmacology and Therapeutics ([CPT](https://ascpt.onlinelibrary.wiley.com/journal/15326535)). Furthermore, an R package that implements the methods described is available in GitHib: [knockofftools package](https://github.com/Novartis/knockofftools/tree/main).
+**March 2024**: There is a PhD opportunity by [Gavin Brown](https://profgavinbrown.github.io/) in the UKRI AI Center for Doctoral Training (CDT) in Decision Making for Complex Systems (jointly run between the University of Manchester and the University of Cambridge). The [project](https://ai-decisions-cdt.github.io/hugo-pages/talk/2024_causaleffects_brown_sechidis_bretz/) will focus on the areas of causality and information geometry, with the main objective to study the statistical properties of various causal effect measures and understand/reduce their inherent uncertainty. [Frank Bretz](https://www.linkedin.com/in/frank-bretz-8510415/) and I will also co-supervise/advise the student.
 
+**March 2024**: A new paper, [All that Glitters Is not Gold: Type-I Error Controlled Variable Selection from Clinical Trial Data](https://ascpt.onlinelibrary.wiley.com/doi/full/10.1002/cpt.3211), published in Clinical Pharmacology and Therapeutics ([CPT](https://ascpt.onlinelibrary.wiley.com/journal/15326535)). Furthermore, an R package that implements the methods described is available in GitHib: [knockofftools package](https://github.com/Novartis/knockofftools/tree/main).
 
 **April 2024**: Together with  [Mark Baillie](https://bailliem.github.io) and [Frank Bretz](https://www.linkedin.com/in/frank-bretz-8510415) we organise the [Data science thinking: making an impact](https://datascience-thinking.github.io/) workshop in [AMLD 2024](https://2024.appliedmldays.org/). 
 
@@ -41,10 +42,26 @@ Hello, my name is Konstantinos (for short, Kostas) Sechidis and I am a machine l
 
 **Sep 2023**: Present our work on controlled biomarker discovery in the [5th Conference of the Central European Network (CEN)](https://cen2023.github.io/home/index.html).
 
+<!--
 **Jan 2023**: I have been appointed vice-chair of the technical committee on [Statistical Pattern Recognition Techniques](https://sites.google.com/view/iapr-tc1/home?pli=1) of the International Association for Pattern Recognition [(IAPR)](https://iapr.org/index.php).
 
 **Dec 2022**: Our paper on benchmarking methods for characterising treatment effect heterogeneity in clinical trials published in [Biometrical Journal](https://onlinelibrary.wiley.com/doi/full/10.1002/bimj.202100337). If you are interested on simulating datasets of heterogeneous treatment effects you can check our [benchtm](https://github.com/Sophie-Sun/benchtm) package.
 
+**Sep 2021**: [Lasse Hansen](https://lassehansen.me/)'s work on assessing depression using speech emotion recognition systems is available in [biorxiv](https://www.biorxiv.org/content/10.1101/2021.09.01.458536v1). For those interested, Lasse's has a [twitter thread](https://twitter.com/HansenLasse94/status/1434789476623060993) that summarizes some of the main points of the paper.
+
+**Aug 2021**: On September 13th, together with colleagues from industry and academia, we organise the second edition of [PharML](https://sites.google.com/view/pharml2021/) workshop,  colocated with [ECML-PKDD 2021](https://2021.ecmlpkdd.org/). Check the exciting program [here](https://sites.google.com/view/pharml2021/program). 
+
+**Jul 2021**: The paper on using knockoffs for controlled predictive biomarker identification has just been published in [Statistics in Medicine](https://onlinelibrary.wiley.com/doi/10.1002/sim.9134). For those interested, check out an earlier [work](https://onlinelibrary.wiley.com/doi/full/10.1002/sim.8955) from our group (Advanced Methodology and Data Science in Novartis) where the sequential knockoffs algorithm was introduced.
+
+Apr 2021: The paper of my post-doc in Roche is published and open access in Artificial Intelligence in Medicine.
+
+Oct 2020: I am now member of the editorial board of the Machine Learning Journal (MLJ). I also joined the Subgroup Analysis special interest group, which is sponsored by the European Federation of Statisticians in the Pharmaceutical Industry (EFSPI) and the Statisticians in the Pharmaceutical Industry (PSI) organisation.
+
+Sept 2020: On the September 18th I will present on the Statistical Learning workshop organised by the Data Mining and Machine Learning group of the University of Geneva. The aim of the workshop is to bring together the research communities of statistics and machine learning to foster a discussion between the two fields and develop research synergies. For more details and registration see here.
+
+June 2020: I joined Novartis’ Advanced Methodology and Data Science (AMDS) group, where I focus on developing novel machine learning methods with the aim of improving drug development in multiple projects. Furthermore, in collaboration with data scientists and biostatisticians, we work to ensure that state-of-the-art statistical and machine learning methods are used at the trial and project level.
+
+-->
 # Key research interests
 
 -   **Feature selection**
