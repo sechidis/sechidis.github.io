@@ -36,7 +36,7 @@ Hello, my name is Konstantinos (for short, Kostas) Sechidis and I am a machine l
 
 **March 2024**: A new paper, [All that Glitters Is not Gold: Type-I Error Controlled Variable Selection from Clinical Trial Data](https://ascpt.onlinelibrary.wiley.com/doi/full/10.1002/cpt.3211), published in Clinical Pharmacology and Therapeutics ([CPT](https://ascpt.onlinelibrary.wiley.com/journal/15326535)). Furthermore, an R package that implements the methods described is available in GitHib: [knockofftools package](https://github.com/Novartis/knockofftools/tree/main).
 
-**April 2024**: Together with  [Mark Baillie](https://bailliem.github.io), [Frank Bretz](https://www.linkedin.com/in/frank-bretz-8510415) and Prashanti Goswami (https://www.linkedin.com/in/prashanti-goswami-she-her-15a52110/) we organise the [Data science thinking: making an impact](https://datascience-thinking.github.io/) workshop in [AMLD 2024](https://2024.appliedmldays.org/). 
+**April 2024**: Together with  [Mark Baillie](https://bailliem.github.io), [Frank Bretz](https://www.linkedin.com/in/frank-bretz-8510415) and [Prashanti Goswami] (https://www.linkedin.com/in/prashanti-goswami-she-her-15a52110/) we organise the [Data science thinking: making an impact](https://datascience-thinking.github.io/) workshop in [AMLD 2024](https://2024.appliedmldays.org/). 
 
 **Nov 2023**: Gave an invited presentation in the European Statistical Forum. This year's topic was: [Statistical Methodology in Precision Medicine and the role of Artificial Intelligence](https://lsacademy.com/en/product/european-statistical-forum-4/).
 
