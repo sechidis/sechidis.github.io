@@ -33,7 +33,7 @@ Hello, my name is Konstantinos (for short, Kostas) Sechidis and I am a machine l
 
 # News
 
-**August 2024**: [Frank Bretz](https://www.linkedin.com/in/frank-bretz-8510415/) and I are organizing an online webinar with the [Basel Biometric Society (BBS)](https://baselbiometrics.github.io/home/docs/) on ["Controlling the chances of false discoveries in exploratory analysis of clinical trials"](https://baselbiometrics.github.io/home/docs/upcoming/20240829/agenda.pdf). The workshop will take place 29th of August (14:00-17:00 CET) and it is free, but registration is required. Here is the registration [link](https://lnkd.in/gcqcPRyJ)
+**August 2024**: [Frank Bretz](https://www.linkedin.com/in/frank-bretz-8510415/) and I organized an online webinar with the [Basel Biometric Society (BBS)](https://baselbiometrics.github.io/home/docs/) on ["Controlling the chances of false discoveries in exploratory analysis of clinical trials"](https://baselbiometrics.github.io/home/docs/upcoming/20240829/agenda.pdf). The workshop took place 29th of August and you can find the material [here](https://baselbiometrics.github.io/home/docs/events_past.html)
 
 **June 2024**: I will present WATCH in the PSI (Statisticians in the Pharmaceutical Industry) [2024](https://www.psiweb.org/conferences/about-the-conference) conference.
 
