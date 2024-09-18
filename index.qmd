@@ -32,7 +32,9 @@ Hello, my name is Konstantinos (for short, Kostas) Sechidis and I am a machine l
 <sup> *Disclaimer: this is my personal page, the content is my own responsibility and it is not connected to/supported by any entity with which I have been, am now, or will be affiliated.* </sup>
 
 # News
+**September 2024**: I attended the  [2024 EFSPI regulatory statistics workshop](https://efspieurope.github.io/workshop/next.html) to present a short topic on the quality standards of exploratory analysis, and two posters describing our work with the [Subgroup Analysis SIG](https://psiweb.org/sigs-special-interest-groups/subgroup-analysis) and the [Biomarkers SIG](https://www.psiweb.org/sigs-special-interest-groups/biomarkers), of which I am a member.
 
+Presented a short topic discussion on the quality standards of the exploratory analysis 
 **August 2024**: [Frank Bretz](https://www.linkedin.com/in/frank-bretz-8510415/) and I organized an online webinar with the [Basel Biometric Society (BBS)](https://baselbiometrics.github.io/home/docs/) on ["Controlling the chances of false discoveries in exploratory analysis of clinical trials"](https://baselbiometrics.github.io/home/docs/upcoming/20240829/agenda.pdf). The workshop took place 29th of August and you can find the material [here](https://baselbiometrics.github.io/home/docs/events_past.html)
 
 **June 2024**: I will present WATCH in the PSI (Statisticians in the Pharmaceutical Industry) [2024](https://www.psiweb.org/conferences/about-the-conference) conference.
@@ -45,10 +47,12 @@ Hello, my name is Konstantinos (for short, Kostas) Sechidis and I am a machine l
 
 **April 2024**: Together with [Mark Baillie](https://bailliem.github.io), [Frank Bretz](https://www.linkedin.com/in/frank-bretz-8510415) and [Prashanti Goswami](https://www.linkedin.com/in/prashanti-goswami-she-her-15a52110/) we organise the [Data science thinking: making an impact](https://datascience-thinking.github.io/) workshop in [AMLD 2024](https://2024.appliedmldays.org/).
 
-**Nov 2023**: Gave an invited presentation in the European Statistical Forum. This year's topic was: [Statistical Methodology in Precision Medicine and the role of Artificial Intelligence](https://lsacademy.com/en/product/european-statistical-forum-4/).
+
 
 ```{=html}
 <!--
+**Nov 2023**: Gave an invited presentation in the European Statistical Forum. This year's topic was: [Statistical Methodology in Precision Medicine and the role of Artificial Intelligence](https://lsacademy.com/en/product/european-statistical-forum-4/).
+
 **Sep 2023**: Present our work on controlled biomarker discovery in the [5th Conference of the Central European Network (CEN)](https://cen2023.github.io/home/index.html).
 
 **Jan 2023**: I have been appointed vice-chair of the technical committee on [Statistical Pattern Recognition Techniques](https://sites.google.com/view/iapr-tc1/home?pli=1) of the International Association for Pattern Recognition [(IAPR)](https://iapr.org/index.php).
