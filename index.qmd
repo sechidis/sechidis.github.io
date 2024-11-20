@@ -32,7 +32,7 @@ Hello, my name is Konstantinos (for short, Kostas) Sechidis and I am a machine l
 <sup> *Disclaimer: this is my personal page, the content is my own responsibility and it is not connected to/supported by any entity with which I have been, am now, or will be affiliated.* </sup>
 
 # News
-**November 2024**: I am pleased to announce my appointment as the of the technical committee on [Statistical Pattern Recognition Techniques](https://sites.google.com/view/iapr-tc1/home?pli=1) of [(IAPR)](https://iapr.org/index.php) . Together with [Maura Pintor](https://maurapintor.github.io/), I look forward to promoting interaction and collaboration among researchers  engaged in statistical pattern recognition and machine learning.
+**November 2024**: I am pleased to announce my appointment as the chair of the technical committee on [Statistical Pattern Recognition Techniques](https://sites.google.com/view/iapr-tc1/home?pli=1) of [(IAPR)](https://iapr.org/index.php). Together with [Maura Pintor](https://maurapintor.github.io/), I look forward to promoting interaction and collaboration among researchers  engaged in statistical pattern recognition and machine learning.
 
 **September 2024**: I attended the  [2024 EFSPI regulatory statistics workshop](https://efspieurope.github.io/workshop/next.html) to present a short topic on the quality standards of exploratory analysis, and two posters describing our work with the [Subgroup Analysis SIG](https://psiweb.org/sigs-special-interest-groups/subgroup-analysis) and the [Biomarkers SIG](https://www.psiweb.org/sigs-special-interest-groups/biomarkers), of which I am a member.
 
