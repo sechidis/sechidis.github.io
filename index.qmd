@@ -34,15 +34,13 @@ Hello, my name is Konstantinos (for short, Kostas) Sechidis and I am a machine l
 # News
 **November 2024**: I am pleased to announce my appointment as the chair of the technical committee on [Statistical Pattern Recognition Techniques](https://sites.google.com/view/iapr-tc1/home?pli=1) of [(IAPR)](https://iapr.org/index.php). Together with [Maura Pintor](https://maurapintor.github.io/), I look forward to promoting interaction and collaboration among researchers  engaged in statistical pattern recognition and machine learning.
 
-**September 2024**: I attended the  [2024 EFSPI regulatory statistics workshop](https://efspieurope.github.io/workshop/next.html) to present a short topic on the quality standards of exploratory analysis, and two posters describing our work with the [Subgroup Analysis SIG](https://psiweb.org/sigs-special-interest-groups/subgroup-analysis) and the [Biomarkers SIG](https://www.psiweb.org/sigs-special-interest-groups/biomarkers), of which I am a member.
-
+**September 2024**: I attended the  [2024 EFSPI regulatory statistics workshop](https://efspieurope.github.io/workshop/next.html) to present a short topic on the quality standards of exploratory analysis. My presentation and the discussion with the panel of regulators are in [youtube](https://www.youtube.com/watch?v=5vlTfHA43GI&t=5050s).
+I also presented two posters describing our work with the [Subgroup Analysis SIG](https://psiweb.org/sigs-special-interest-groups/subgroup-analysis) and the [Biomarkers SIG](https://www.psiweb.org/sigs-special-interest-groups/biomarkers), of which I am a member. 
 **August 2024**: [Frank Bretz](https://www.linkedin.com/in/frank-bretz-8510415/) and I organized an online webinar with the [Basel Biometric Society (BBS)](https://baselbiometrics.github.io/home/docs/) on ["Controlling the chances of false discoveries in exploratory analysis of clinical trials"](https://baselbiometrics.github.io/home/docs/upcoming/20240829/agenda.pdf). The workshop took place 29th of August and you can find the material [here](https://baselbiometrics.github.io/home/docs/events_past.html)
 
-**June 2024**: I will present WATCH in the PSI (Statisticians in the Pharmaceutical Industry) [2024](https://www.psiweb.org/conferences/about-the-conference) conference.
+**June 2024**: I presented WATCH in the PSI (Statisticians in the Pharmaceutical Industry) [2024](https://www.psiweb.org/conferences/about-the-conference) conference.
 
 **May 2024**: In our new paper we introduce the [WATCH: A Workflow to Assess Treatment Effect Heterogeneity in Drug Development for Clinical Trial Sponsors](https://arxiv.org/abs/2405.00859). This work goes beyond pure data analysis considerations and approaches the problem of assessing heterogeneity comprehensively, encompassing all critical steps from the initial problem definition, through data processing and analysis, to the incorporation of external evidence and best scientific knowledge, and the final communication of the findings.
-
-**April 2024**: There is a PhD opportunity by [Gavin Brown](https://profgavinbrown.github.io/) in the UKRI AI Center for Doctoral Training (CDT) in Decision Making for Complex Systems (jointly run between the University of Manchester and the University of Cambridge). The [project](https://ai-decisions-cdt.github.io/hugo-pages/talk/2024_causaleffects_brown_sechidis_bretz/) will focus on the areas of causality and information geometry, with the main objective to study the statistical properties of various causal effect measures and understand/reduce their inherent uncertainty. [Frank Bretz](https://www.linkedin.com/in/frank-bretz-8510415/) and I will also co-supervise/advise the student.
 
 **March 2024**: A new paper, [All that Glitters Is not Gold: Type-I Error Controlled Variable Selection from Clinical Trial Data](https://ascpt.onlinelibrary.wiley.com/doi/full/10.1002/cpt.3211), published in Clinical Pharmacology and Therapeutics ([CPT](https://ascpt.onlinelibrary.wiley.com/journal/15326535)). Furthermore, an R package that implements the methods described is available in GitHib: [knockofftools package](https://github.com/Novartis/knockofftools/tree/main).
 
@@ -52,6 +50,9 @@ Hello, my name is Konstantinos (for short, Kostas) Sechidis and I am a machine l
 
 ```{=html}
 <!--
+
+**April 2024**: There is a PhD opportunity by [Gavin Brown](https://profgavinbrown.github.io/) in the UKRI AI Center for Doctoral Training (CDT) in Decision Making for Complex Systems (jointly run between the University of Manchester and the University of Cambridge). The [project](https://ai-decisions-cdt.github.io/hugo-pages/talk/2024_causaleffects_brown_sechidis_bretz/) will focus on the areas of causality and information geometry, with the main objective to study the statistical properties of various causal effect measures and understand/reduce their inherent uncertainty. [Frank Bretz](https://www.linkedin.com/in/frank-bretz-8510415/) and I will also co-supervise/advise the student.
+
 **Nov 2023**: Gave an invited presentation in the European Statistical Forum. This year's topic was: [Statistical Methodology in Precision Medicine and the role of Artificial Intelligence](https://lsacademy.com/en/product/european-statistical-forum-4/).
 
 **Sep 2023**: Present our work on controlled biomarker discovery in the [5th Conference of the Central European Network (CEN)](https://cen2023.github.io/home/index.html).
