@@ -32,6 +32,8 @@ Hello, my name is Konstantinos (for short, Kostas) Sechidis and I am a machine l
 <sup> *Disclaimer: this is my personal page, the content is my own responsibility and it is not connected to/supported by any entity with which I have been, am now, or will be affiliated.* </sup>
 
 # News
+**January 2025**: Laura's work on using low-precision conditional mutual information (CMI) for feature selection is published in [Pattern Recognition](https://www.sciencedirect.com/science/article/pii/S0031320325000354?CMX_ID=&SIS_ID=&dgcid=STMJ_219742_AUTH_SERV_PA&utm_acid=244457521&utm_campaign=STMJ_219742_AUTH_SERV_PA&utm_in=DM537714&utm_medium=email&utm_source=AC_). 
+
 **November 2024**: I am pleased to announce my appointment as the chair of the technical committee on [Statistical Pattern Recognition Techniques](https://sites.google.com/view/iapr-tc1/home?pli=1) of [(IAPR)](https://iapr.org/index.php). Together with [Maura Pintor](https://maurapintor.github.io/), I look forward to promoting interaction and collaboration among researchers  engaged in statistical pattern recognition and machine learning.
 
 **September 2024**: I attended the  [2024 EFSPI regulatory statistics workshop](https://efspieurope.github.io/workshop/next.html) to present a short topic on the quality standards of exploratory analysis. My presentation and the discussion with the panel of regulators are in [youtube](https://www.youtube.com/watch?v=5vlTfHA43GI&t=5050s).
@@ -41,16 +43,15 @@ I also presented two posters describing our work with the [Subgroup Analysis SIG
 
 **June 2024**: I presented WATCH in the PSI (Statisticians in the Pharmaceutical Industry) [2024](https://www.psiweb.org/conferences/about-the-conference) conference.
 
-**May 2024**: In our new paper we introduce the [WATCH: A Workflow to Assess Treatment Effect Heterogeneity in Drug Development for Clinical Trial Sponsors](https://arxiv.org/abs/2405.00859). This work goes beyond pure data analysis considerations and approaches the problem of assessing heterogeneity comprehensively, encompassing all critical steps from the initial problem definition, through data processing and analysis, to the incorporation of external evidence and best scientific knowledge, and the final communication of the findings.
+**May 2024**: In our new paper we introduce the [WATCH: A Workflow to Assess Treatment Effect Heterogeneity in Drug Development for Clinical Trial Sponsors](https://arxiv.org/abs/2405.00859). This work goes beyond pure data analysis considerations and approaches the problem of assessing heterogeneity comprehensively, encompassing all critical steps from the initial problem definition, through data processing and analysis, to the incorporation of external evidence and best scientific knowledge, and the final communication of the findings. **UPDATE**: The paper is now published in [Pharmaceutical Statistics](https://onlinelibrary.wiley.com/doi/full/10.1002/pst.2463).
 
 **March 2024**: A new paper, [All that Glitters Is not Gold: Type-I Error Controlled Variable Selection from Clinical Trial Data](https://ascpt.onlinelibrary.wiley.com/doi/full/10.1002/cpt.3211), published in Clinical Pharmacology and Therapeutics ([CPT](https://ascpt.onlinelibrary.wiley.com/journal/15326535)). Furthermore, an R package that implements the methods described is available in GitHib: [knockofftools package](https://github.com/Novartis/knockofftools/tree/main).
-
-**April 2024**: Together with [Mark Baillie](https://bailliem.github.io), [Frank Bretz](https://www.linkedin.com/in/frank-bretz-8510415) and [Prashanti Goswami](https://www.linkedin.com/in/prashanti-goswami-she-her-15a52110/) we organise the [Data science thinking: making an impact](https://datascience-thinking.github.io/) workshop in [AMLD 2024](https://2024.appliedmldays.org/).
-
 
 
 ```{=html}
 <!--
+
+**April 2024**: Together with [Mark Baillie](https://bailliem.github.io), [Frank Bretz](https://www.linkedin.com/in/frank-bretz-8510415) and [Prashanti Goswami](https://www.linkedin.com/in/prashanti-goswami-she-her-15a52110/) we organise the [Data science thinking: making an impact](https://datascience-thinking.github.io/) workshop in [AMLD 2024](https://2024.appliedmldays.org/).
 
 **April 2024**: There is a PhD opportunity by [Gavin Brown](https://profgavinbrown.github.io/) in the UKRI AI Center for Doctoral Training (CDT) in Decision Making for Complex Systems (jointly run between the University of Manchester and the University of Cambridge). The [project](https://ai-decisions-cdt.github.io/hugo-pages/talk/2024_causaleffects_brown_sechidis_bretz/) will focus on the areas of causality and information geometry, with the main objective to study the statistical properties of various causal effect measures and understand/reduce their inherent uncertainty. [Frank Bretz](https://www.linkedin.com/in/frank-bretz-8510415/) and I will also co-supervise/advise the student.
 
