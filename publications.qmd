@@ -1,14 +1,18 @@
 ---
 title: "Publications"
 ---
+# 2025
+-   Morán-Fernández L, Blanco-Mallo E, **Sechidis K**, Bolón-Canedo V. \
+    *Breaking boundaries: Low-precision conditional mutual information for efficient feature selection.*\
+    Patter Recognition. 2025. doi:[0.1016/j.patcog.2025.111375](https://doi.org/10.1016/j.patcog.2025.111375)
 
 # 2024
 -    **Sechidis K**, Sun S, Chen Y, Lu J, Zhang C, Baillie M, Ohlssen D, Vandemeulebroecke M, Hemmings R, Ruberg S & Bornkamp B.\
      *WATCH: A Workflow to Assess Treatment Effect Heterogeneity in Drug Development for Clinical Trial Sponsors*\
-     arXiv. 2024. doi:[10.48550/arXiv.2405.00859](https://doi.org/10.48550/arXiv.2405.00859)
+     Pharmaceutical Statistics. 2024. doi:[10.1002/pst.2463](https://doi.org/10.1002/pst.2463), [arXiv](https://doi.org/10.48550/arXiv.2405.00859)
      
 -    Zimmermann MR, Baillie M, Kormaksson M, Ohlssen D & **Sechidis K**. \
-    *All that Glitters Is not Gold: Type      I Error Controlled Variable Selection from Clinical Trial Data.*\
+    *All that Glitters Is not Gold: Type I Error Controlled Variable Selection from Clinical Trial Data.*\
     Clinical Pharmacology and Therapeutics. 2024. doi:[10.1002/cpt.3211](https://doi.org/10.1002/cpt.3211)
     
 -   Sun S, **Sechidis K**, Chen Y, Lu J, Ma C, Mirshani A, Ohlssen D, Vandemeulebroecke M, & Bornkamp B.\
