@@ -45,7 +45,7 @@ I also presented two posters describing our work with the [Subgroup Analysis SIG
 
 **May 2024**: In our new paper we introduce the [WATCH: A Workflow to Assess Treatment Effect Heterogeneity in Drug Development for Clinical Trial Sponsors](https://arxiv.org/abs/2405.00859). This work goes beyond pure data analysis considerations and approaches the problem of assessing heterogeneity comprehensively, encompassing all critical steps from the initial problem definition, through data processing and analysis, to the incorporation of external evidence and best scientific knowledge, and the final communication of the findings. **UPDATE**: The paper is now published in [Pharmaceutical Statistics](https://onlinelibrary.wiley.com/doi/full/10.1002/pst.2463).
 
-**March 2024**: A new paper, [All that Glitters Is not Gold: Type-I Error Controlled Variable Selection from Clinical Trial Data](https://ascpt.onlinelibrary.wiley.com/doi/full/10.1002/cpt.3211), published in Clinical Pharmacology and Therapeutics ([CPT](https://ascpt.onlinelibrary.wiley.com/journal/15326535)). Furthermore, an R package that implements the methods described is available in GitHib: [knockofftools package](https://github.com/Novartis/knockofftools/tree/main).
+**March 2024**: A new paper, [All that Glitters Is not Gold: Type-I Error Controlled Variable Selection from Clinical Trial Data](https://ascpt.onlinelibrary.wiley.com/doi/full/10.1002/cpt.3211), published in Clinical Pharmacology and Therapeutics ([CPT](https://ascpt.onlinelibrary.wiley.com/journal/15326535)). Furthermore, an R package that implements the methods described is available in GitHub: [knockofftools package](https://github.com/Novartis/knockofftools/tree/main).
 
 
 ```{=html}
