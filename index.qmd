@@ -49,10 +49,6 @@ I also presented two posters describing our work with the [Subgroup Analysis SIG
 
 **March 2024**: A new paper, [All that Glitters Is not Gold: Type-I Error Controlled Variable Selection from Clinical Trial Data](https://ascpt.onlinelibrary.wiley.com/doi/full/10.1002/cpt.3211), published in Clinical Pharmacology and Therapeutics ([CPT](https://ascpt.onlinelibrary.wiley.com/journal/15326535)). Furthermore, an R package that implements the methods described is available in GitHub: [knockofftools package](https://github.com/Novartis/knockofftools/tree/main).
 
-
-```{=html}
-<!--
-
 **April 2024**: Together with [Mark Baillie](https://bailliem.github.io), [Frank Bretz](https://www.linkedin.com/in/frank-bretz-8510415) and [Prashanti Goswami](https://www.linkedin.com/in/prashanti-goswami-she-her-15a52110/) we organise the [Data science thinking: making an impact](https://datascience-thinking.github.io/) workshop in [AMLD 2024](https://2024.appliedmldays.org/).
 
 **April 2024**: There is a PhD opportunity by [Gavin Brown](https://profgavinbrown.github.io/) in the UKRI AI Center for Doctoral Training (CDT) in Decision Making for Complex Systems (jointly run between the University of Manchester and the University of Cambridge). The [project](https://ai-decisions-cdt.github.io/hugo-pages/talk/2024_causaleffects_brown_sechidis_bretz/) will focus on the areas of causality and information geometry, with the main objective to study the statistical properties of various causal effect measures and understand/reduce their inherent uncertainty. [Frank Bretz](https://www.linkedin.com/in/frank-bretz-8510415/) and I will also co-supervise/advise the student.
@@ -71,14 +67,17 @@ I also presented two posters describing our work with the [Subgroup Analysis SIG
 
 **Jul 2021**: The paper on using knockoffs for controlled predictive biomarker identification has just been published in [Statistics in Medicine](https://onlinelibrary.wiley.com/doi/10.1002/sim.9134). For those interested, check out an earlier [work](https://onlinelibrary.wiley.com/doi/full/10.1002/sim.8955) from our group (Advanced Methodology and Data Science in Novartis) where the sequential knockoffs algorithm was introduced.
 
-Apr 2021: The paper of my post-doc in Roche is published and open access in Artificial Intelligence in Medicine.
+**Apr 2021**: The paper of my work in Roche is published and open access in [Artificial Intelligence in Medicine](https://www.sciencedirect.com/science/article/pii/S0933365721000543).
 
-Oct 2020: I am now member of the editorial board of the Machine Learning Journal (MLJ). I also joined the Subgroup Analysis special interest group, which is sponsored by the European Federation of Statisticians in the Pharmaceutical Industry (EFSPI) and the Statisticians in the Pharmaceutical Industry (PSI) organisation.
+**Oct 2020**: I am now member of the editorial board of the Machine Learning Journal [(MLJ)](https://link.springer.com/journal/10994/editorial-board). I also joined the [Treatment Effect Heterogeneity special interest group](https://psiweb.org/sigs-special-interest-groups/treatment-effect-heterogeneity), which is sponsored by the European Federation of Statisticians in the Pharmaceutical Industry (EFSPI) and the Statisticians in the Pharmaceutical Industry (PSI) organisation.
 
-Sept 2020: On the September 18th I will present on the Statistical Learning workshop organised by the Data Mining and Machine Learning group of the University of Geneva. The aim of the workshop is to bring together the research communities of statistics and machine learning to foster a discussion between the two fields and develop research synergies. For more details and registration see here.
+**Sept 2020**: On the September 18th I will present on the Statistical Learning workshop organised by the Data Mining and Machine Learning group of the University of Geneva. The aim of the workshop is to bring together the research communities of statistics and machine learning to foster a discussion between the two fields and develop research synergies. For more details and registration see here.
 
-June 2020: I joined Novartis’ Advanced Methodology and Data Science (AMDS) group, where I focus on developing novel machine learning methods with the aim of improving drug development in multiple projects. Furthermore, in collaboration with data scientists and biostatisticians, we work to ensure that state-of-the-art statistical and machine learning methods are used at the trial and project level.
+**June 2020**: I joined Novartis’ Advanced Methodology and Data Science (AMDS) group, where I focus on developing novel machine learning methods with the aim of improving drug development in multiple projects. Furthermore, in collaboration with data scientists and biostatisticians, we work to ensure that state-of-the-art statistical and machine learning methods are used at the trial and project level.
 
+
+```{=html}
+<!--
 -->
 ```
 # Key research interests
