@@ -10,6 +10,10 @@ title: "Publications"
      *Comparing methods to assess treatment effect heterogeneity in general parametric regression models*\
      [arXiv](https://arxiv.org/abs/2503.22548)
 
+-    Svensson D, Hermansson E, Nikolaou N, **Sechidis K**, Lipkovich I.\
+     *Overview and practical recommendations on using Shapley Values for identifying predictive biomarkers via CATE modelings*\
+     [arXiv](https://arxiv.org/abs/2505.01145)
+
 -   Morán-Fernández L, Blanco-Mallo E, **Sechidis K**, Bolón-Canedo V. \
     *Breaking boundaries: Low-precision conditional mutual information for efficient feature selection.*\
     Patter Recognition. 2025. doi:[0.1016/j.patcog.2025.111375](https://doi.org/10.1016/j.patcog.2025.111375)
