@@ -161,7 +161,9 @@ title: "Publications"
     **AWARD: Best Student Paper Award in ECML/PKDD 2014 (sponsored by Springer).**\
     **AWARD: Runner up Best Paper Prize of the School of Computer Science at the University of Manchester 2014 (sponsored by IBM).**
 
--   **Sechidis K**, Nikolaou N, Brown G. *Information theoretic feature selection in multi-label data through composite likelihood.* Structural, Syntactic, and Statistical Pattern Recognition (SSPR) 2014. doi:[10.1007/978-3-662-44415-3_15](https://doi.org/10.1007/978-3-662-44415-3_15)
+-   **Sechidis K**, Nikolaou N, Brown G.\ 
+    *Information theoretic feature selection in multi-label data through composite likelihood.*\
+   Structural, Syntactic, and Statistical Pattern Recognition (SSPR) 2014. doi:[10.1007/978-3-662-44415-3_15](https://doi.org/10.1007/978-3-662-44415-3_15)
 
 # 2011
 
