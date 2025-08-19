@@ -19,7 +19,7 @@ Specialisation: Telecommunications, Degree Classification: Top 5% of class
 
 # Research experience
 
-**Current role: Associate Director of Data Science, Novartis**\
+**Current role: Director of Data Science, Novartis**\
 Jun 2020 -- Present: I am member of Novartis' Advanced Methodology and Data Science group focusing on developing new machine learning methods with the aim of improving drug development in multiple projects.
 
 **Data Science Fellow in Digital Biomarkers, Roche**\
