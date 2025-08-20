@@ -18,6 +18,10 @@ title: "Publications"
     *Breaking boundaries: Low-precision conditional mutual information for efficient feature selection.*\
     Patter Recognition. 2025. doi:[0.1016/j.patcog.2025.111375](https://doi.org/10.1016/j.patcog.2025.111375)
 
+-   Parola A, Jessen ET, Rybner A, Mortensen MD, Larsen SN, Simonsen A, Lin JM, Zhou Y, Wang H, Koelkebeck K, **Sechidis K**, Bliksted V, Fusaroli R.\
+    *Vocal Markers of Schizophrenia: Assessing the Generalizability of Machine Learning Models and Their Clinical Applicability.*\
+    Schizophrenia Bulletin. 2025. doi:[https://doi.org/10.1093/schbul/sbaf124](https://doi.org/10.1093/schbul/sbaf124)
+
 # 2024
 -    **Sechidis K**, Sun S, Chen Y, Lu J, Zhang C, Baillie M, Ohlssen D, Vandemeulebroecke M, Hemmings R, Ruberg S & Bornkamp B.\
      *WATCH: A Workflow to Assess Treatment Effect Heterogeneity in Drug Development for Clinical Trial Sponsors*\
