@@ -11,9 +11,6 @@ about:
         - icon: linkedin
           text: LinkedIn
           url: https://www.linkedin.com/in/konstantinos-kostas-sechidis-19311657/
-        - icon: twitter
-          text: Twitter
-          url: https://twitter.com/sechidis
         - icon: github
           text: Github
           url: https://github.com/sechidis
