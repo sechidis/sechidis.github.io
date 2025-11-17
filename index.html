@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.33">
+<meta name="generator" content="quarto-1.8.26">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -34,13 +34,14 @@ ul.task-list li input[type="checkbox"] {
 <link href=".//img/thumbnail.jpg" rel="icon" type="image/jpeg">
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-ea385d0e468b0dd5ea5bf0780b1290d9.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-587c61ba64f3a5504c4d52d930310e48.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-4df3b0c4fafa0f66eafcead0ee6cff11.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-0b37c64f34216b628666a8dac638b53b.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <link href="site_libs/quarto-contrib/academicons-1.9.2/all.css" rel="stylesheet">
 <link href="site_libs/quarto-contrib/academicons-1.9.2/size.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
@@ -168,6 +169,7 @@ ul.task-list li input[type="checkbox"] {
 <p><sup> <em>Disclaimer: this is my personal page, the content is my own responsibility and it is not connected to/supported by any entity with which I have been, am now, or will be affiliated.</em> </sup></p>
 <section id="news" class="level1">
 <h1>News</h1>
+<p><strong>November 2025</strong>: Happy to share our new <a href="https://arxiv.org/abs/2511.11166">paper</a> with <a href="https://fischerl5.wordpress.com/">Lasse</a>, where we introduce post-hoc knockoff method that uses e-values to adapt the nominal level while preserving full Type I error guarantees. In this way, we can increase the nominal level in cases where the original knockoff procedure does not make any selections to potentially make discoveries, and in cases where it does make discoveries, we can often decrease the nominal level to increase the precision.</p>
 <p><strong>August 2025</strong>: <a href="https://researchprofiles.ku.dk/en/persons/alberto-parola">Alberto</a>’s work on vocal markers of schizophrenia and the generalizability of machine learning models is published in <a href="https://doi.org/10.1093/schbul/sbaf124">Schizophrenia Bulletin</a>.</p>
 <p><strong>May 2025</strong>: I am happy to share our recent <a href="https://arxiv.org/abs/2505.01145">paper</a> that is a product of a cross-industry collaboration initiated by the EFSPI (European Federation of Statisticians in the Pharmaceutical Industry) SIG in <a href="https://psiweb.org/sigs-special-interest-groups/treatment-effect-heterogeneity">Treatment Effect Heterogeneity (TEH)</a>. In this paper, we investigate the intersection of Conditional Average Treatment Effect (CATE) modeling and Shapley Additive Explanations (SHAP) to enhance the understanding of individual responses to treatments and the contribution of features in model predictions. Additionally, we provide guidance on using SHAP values to identify predictive biomarkers in CATE modeling. A big thanks to <a href="https://www.linkedin.com/in/david-svensson-164b5816/">David Svensson</a> for leading this work, and to my co-authors <a href="https://www.linkedin.com/in/erik-hermansson-7145b7116/">Erik Hermansson</a>, <a href="https://www.linkedin.com/in/nikos-nikolaou-60931986/">Nikolaos Nikolaou</a> and <a href="https://www.linkedin.com/in/ilya-lipkovich-2020411/">Ilya Lipkovich</a>.</p>
 <p><strong>April 2025</strong>: Our latest paper on <a href="https://arxiv.org/abs/2503.22548v1">arXiv</a> illustrates the implementations of WATCH in the context of parametric regression models, highlighting the practical and flexible use of score-residual based methods for identifying treatment effect modifiers. A big thanks to <a href="https://www.linkedin.com/in/sun-hui-sophie-b7628581/">Sophie Sun</a>, <a href="https://www.linkedin.com/in/yao-chen-7967117b/">Yao Chen</a> and <a href="https://scholar.google.de/citations?user=HX-5x8oAAAAJ">Björn Bornkamp</a>for leading this work.</p>
@@ -255,13 +257,14 @@ ul.task-list li input[type="checkbox"] {
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-        const codeEl = trigger.previousElementSibling.cloneNode(true);
-        for (const childEl of codeEl.children) {
-          if (isCodeAnnotation(childEl)) {
-            childEl.remove();
-          }
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
         }
-        return codeEl.innerText;
+      }
+      return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy
