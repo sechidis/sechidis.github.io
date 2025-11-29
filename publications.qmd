@@ -4,7 +4,7 @@ title: "Publications"
 # 2025
 -    **Sechidis K**, Zhang C, Sun S, Chen Y, Spector A & Bornkamp B.\
      *Using Individualized Treatment Effects to Assess Treatment Effect Heterogeneity*\
-     [arXiv](https://arxiv.org/abs/2502.00713)
+     Statistics in Medicine 44, no. 28-30 (2025): e70324, doi:[https://doi.org/10.1002/sim.70324](https://doi.org/10.1002/sim.70324), [arXiv](https://arxiv.org/abs/2502.00713)
 
 -    Fischer L. & **Sechidis K**.\
      *Knockoffs for low dimensions: changing the nominal level post-hoc to gain power while controlling the FDR*\
