@@ -6,13 +6,13 @@ title: "Publications"
      *Using Individualized Treatment Effects to Assess Treatment Effect Heterogeneity*\
      Statistics in Medicine 44, no. 28-30 (2025): e70324, doi:[https://doi.org/10.1002/sim.70324](https://doi.org/10.1002/sim.70324), [arXiv](https://arxiv.org/abs/2502.00713)
 
+-    Svensson D, Hermansson E, Nikolaou N, **Sechidis K**, Lipkovich I.\
+     *Overview and practical recommendations on using Shapley Values for identifying predictive biomarkers via CATE modelings*\
+     To appear in Statistics in Medicine. [arXiv](https://arxiv.org/abs/2505.01145)
+
 -    Fischer L. & **Sechidis K**.\
      *Knockoffs for low dimensions: changing the nominal level post-hoc to gain power while controlling the FDR*\
      [arXiv](https://arxiv.org/abs/2511.11166)
-
--    Svensson D, Hermansson E, Nikolaou N, **Sechidis K**, Lipkovich I.\
-     *Overview and practical recommendations on using Shapley Values for identifying predictive biomarkers via CATE modelings*\
-     [arXiv](https://arxiv.org/abs/2505.01145)
 
 -    Chen Y, Sun S, **Sechidis K**, Zhang C, Hothorn T & Bornkamp B.\
      *Comparing methods to assess treatment effect heterogeneity in general parametric regression models*\
