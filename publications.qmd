@@ -20,13 +20,13 @@ title: "Publications"
     *Overview and practical recommendations on using Shapley Values for identifying predictive biomarkers via CATE modelings*\
     To appear in Statistics in Medicine. [arXiv](https://arxiv.org/abs/2505.01145)
 
--   Fischer L. & **Sechidis K**.\
-    *Knockoffs for low dimensions: changing the nominal level post-hoc to gain power while controlling the FDR*\
-    [arXiv](https://arxiv.org/abs/2511.11166)
-
 -    Müller MM, Bornkamp B, Bretz F, Cannings TI, Liu W, Reeve HWJ, Samworth RJ, Sfikas N, Wan F & ** Sechidis K**.\
      *Data‑driven controlled subgroup selection in clinical trials*\
      [arXiv](https://arxiv.org/abs/2512.15676)
+
+-   Fischer L. & **Sechidis K**.\
+    *Knockoffs for low dimensions: changing the nominal level post-hoc to gain power while controlling the FDR*\
+    [arXiv](https://arxiv.org/abs/2511.11166)
 
 -   Parola A, Jessen ET, Rybner A, Mortensen MD, Larsen SN, Simonsen A, Lin JM, Zhou Y, Wang H, Koelkebeck K, **Sechidis K**, Bliksted V & Fusaroli R.\
     *Vocal Markers of Schizophrenia: Assessing the Generalizability of Machine Learning Models and Their Clinical Applicability.*\
