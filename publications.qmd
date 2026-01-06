@@ -20,7 +20,7 @@ title: "Publications"
     *Overview and practical recommendations on using Shapley Values for identifying predictive biomarkers via CATE modelings*\
     To appear in Statistics in Medicine. [arXiv](https://arxiv.org/abs/2505.01145)
 
--    Müller MM, Bornkamp B, Bretz F, Cannings TI, Liu W, Reeve HWJ, Samworth RJ, Sfikas N, Wan F & ** Sechidis K**.\
+-    Müller MM, Bornkamp B, Bretz F, Cannings TI, Liu W, Reeve HWJ, Samworth RJ, Sfikas N, Wan F & **Sechidis K**.\
      *Data‑driven controlled subgroup selection in clinical trials*\
      [arXiv](https://arxiv.org/abs/2512.15676)
 
