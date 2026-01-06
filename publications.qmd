@@ -1,8 +1,6 @@
 ---
 title: "Publications"
 ---
-# 2026
-
 # 2025
 -    **Sechidis K**, Sun S, Chen Y, Lu J, Zhang C, Baillie M, Ohlssen D, Vandemeulebroecke M, Hemmings R, Ruberg S & Bornkamp B.\
      *WATCH: A Workflow to Assess Treatment Effect Heterogeneity in Drug Development for Clinical Trial Sponsors*\
