@@ -1,36 +1,42 @@
 ---
 title: "Publications"
 ---
+# 2026
+
 # 2025
+-    **Sechidis K**, Sun S, Chen Y, Lu J, Zhang C, Baillie M, Ohlssen D, Vandemeulebroecke M, Hemmings R, Ruberg S & Bornkamp B.\
+     *WATCH: A Workflow to Assess Treatment Effect Heterogeneity in Drug Development for Clinical Trial Sponsors*\
+     Pharmaceutical Statistics. 2025. doi:[10.1002/pst.2463](https://doi.org/10.1002/pst.2463), [arXiv](https://doi.org/10.48550/arXiv.2405.00859)
+
 -    **Sechidis K**, Zhang C, Sun S, Chen Y, Spector A & Bornkamp B.\
      *Using Individualized Treatment Effects to Assess Treatment Effect Heterogeneity*\
      Statistics in Medicine 44, no. 28-30 (2025): e70324, doi:[https://doi.org/10.1002/sim.70324](https://doi.org/10.1002/sim.70324), [arXiv](https://arxiv.org/abs/2502.00713)
 
--    Svensson D, Hermansson E, Nikolaou N, **Sechidis K**, Lipkovich I.\
-     *Overview and practical recommendations on using Shapley Values for identifying predictive biomarkers via CATE modelings*\
-     To appear in Statistics in Medicine. [arXiv](https://arxiv.org/abs/2505.01145)
+-   Chen Y, Sun S, **Sechidis K**, Zhang C, Hothorn T & Bornkamp B.\
+    *Comparing methods to assess treatment effect heterogeneity in general parametric regression models*\
+    To appear in Statistics in Medicine. [arXiv](https://arxiv.org/abs/2503.22548)
 
--    Fischer L. & **Sechidis K**.\
-     *Knockoffs for low dimensions: changing the nominal level post-hoc to gain power while controlling the FDR*\
-     [arXiv](https://arxiv.org/abs/2511.11166)
+-   Svensson D, Hermansson E, Nikolaou N, **Sechidis K**, Lipkovich I.\
+    *Overview and practical recommendations on using Shapley Values for identifying predictive biomarkers via CATE modelings*\
+    To appear in Statistics in Medicine. [arXiv](https://arxiv.org/abs/2505.01145)
 
--    Chen Y, Sun S, **Sechidis K**, Zhang C, Hothorn T & Bornkamp B.\
-     *Comparing methods to assess treatment effect heterogeneity in general parametric regression models*\
-     [arXiv](https://arxiv.org/abs/2503.22548)
+-   Fischer L. & **Sechidis K**.\
+    *Knockoffs for low dimensions: changing the nominal level post-hoc to gain power while controlling the FDR*\
+    [arXiv](https://arxiv.org/abs/2511.11166)
 
--   Morán-Fernández L, Blanco-Mallo E, **Sechidis K**, Bolón-Canedo V. \
-    *Breaking boundaries: Low-precision conditional mutual information for efficient feature selection.*\
-    Patter Recognition. 2025. doi:[0.1016/j.patcog.2025.111375](https://doi.org/10.1016/j.patcog.2025.111375)
+-    Müller MM, Bornkamp B, Bretz F, Cannings TI, Liu W, Reeve HWJ, Samworth RJ, Sfikas N, Wan F,** Sechidis K**
+     *Data‑driven controlled subgroup selection in clinical trials*
+     [arXiv](https://arxiv.org/abs/2512.15676)
 
 -   Parola A, Jessen ET, Rybner A, Mortensen MD, Larsen SN, Simonsen A, Lin JM, Zhou Y, Wang H, Koelkebeck K, **Sechidis K**, Bliksted V, Fusaroli R.\
     *Vocal Markers of Schizophrenia: Assessing the Generalizability of Machine Learning Models and Their Clinical Applicability.*\
     Schizophrenia Bulletin. 2025. doi:[https://doi.org/10.1093/schbul/sbaf124](https://doi.org/10.1093/schbul/sbaf124)
 
-# 2024
--    **Sechidis K**, Sun S, Chen Y, Lu J, Zhang C, Baillie M, Ohlssen D, Vandemeulebroecke M, Hemmings R, Ruberg S & Bornkamp B.\
-     *WATCH: A Workflow to Assess Treatment Effect Heterogeneity in Drug Development for Clinical Trial Sponsors*\
-     Pharmaceutical Statistics. 2024. doi:[10.1002/pst.2463](https://doi.org/10.1002/pst.2463), [arXiv](https://doi.org/10.48550/arXiv.2405.00859)
-     
+-   Morán-Fernández L, Blanco-Mallo E, **Sechidis K**, Bolón-Canedo V. \
+    *Breaking boundaries: Low-precision conditional mutual information for efficient feature selection.*\
+    Patter Recognition. 2025. doi:[0.1016/j.patcog.2025.111375](https://doi.org/10.1016/j.patcog.2025.111375)
+
+# 2024     
 -    Zimmermann MR, Baillie M, Kormaksson M, Ohlssen D & **Sechidis K**. \
     *All that Glitters Is not Gold: Type I Error Controlled Variable Selection from Clinical Trial Data.*\
     Clinical Pharmacology and Therapeutics. 2024. doi:[10.1002/cpt.3211](https://doi.org/10.1002/cpt.3211)
