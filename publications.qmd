@@ -10,6 +10,10 @@ title: "Publications"
     *Overview and practical recommendations on using Shapley Values for identifying predictive biomarkers via CATE modelings*\
      **Statistics in Medicine** 45, no. 1-2 (2026): e70375, doi:[10.1002/sim.70375](https://doi.org/10.1002/sim.70375), [arXiv](https://arxiv.org/abs/2505.01145).
 
+-    Müller MM, Bornkamp B, Bretz F, Cannings TI, Liu W, Reeve HWJ, Samworth RJ, Sfikas N, Wan F & **Sechidis K**.\
+     *Data‑driven controlled subgroup selection in clinical trials*\
+     [arXiv](https://arxiv.org/abs/2512.15676)
+
 # 2025
 -    **Sechidis K**, Sun S, Chen Y, Lu J, Zhang C, Baillie M, Ohlssen D, Vandemeulebroecke M, Hemmings R, Ruberg S & Bornkamp B.\
      *WATCH: A Workflow to Assess Treatment Effect Heterogeneity in Drug Development for Clinical Trial Sponsors*\
@@ -18,10 +22,6 @@ title: "Publications"
 -    **Sechidis K**, Zhang C, Sun S, Chen Y, Spector A & Bornkamp B.\
      *Using Individualized Treatment Effects to Assess Treatment Effect Heterogeneity*\
      **Statistics in Medicine** 44, no. 28-30 (2025): e70324, doi:[https://doi.org/10.1002/sim.70324](https://doi.org/10.1002/sim.70324), [arXiv](https://arxiv.org/abs/2502.00713)
-
--    Müller MM, Bornkamp B, Bretz F, Cannings TI, Liu W, Reeve HWJ, Samworth RJ, Sfikas N, Wan F & **Sechidis K**.\
-     *Data‑driven controlled subgroup selection in clinical trials*\
-     [arXiv](https://arxiv.org/abs/2512.15676)
 
 -   Fischer L. & **Sechidis K**.\
     *Knockoffs for low dimensions: changing the nominal level post-hoc to gain power while controlling the FDR*\
