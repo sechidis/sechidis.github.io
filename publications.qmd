@@ -3,7 +3,7 @@ title: "Publications"
 ---
 # 2026
 -   Chen Y, Sun S, **Sechidis K**, Zhang C, Hothorn T & Bornkamp B.\
-    *Comparing Methods to Assess Treatment Effect Heterogeneity in General Parametric Regression Models*
+    *Comparing Methods to Assess Treatment Effect Heterogeneity in General Parametric Regression Models*\
      **Statistics in Medicine** 45, no. 1-2 (2026): e70381, doi:[10.1002/sim.7038](https://doi.org/10.1002/sim.7038), [arXiv](https://arxiv.org/abs/2503.22548).
 
 -   Svensson D, Hermansson E, Nikolaou N, **Sechidis K** & Lipkovich I.\
