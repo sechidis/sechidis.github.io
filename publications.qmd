@@ -15,7 +15,7 @@ title: "Publications"
      [arXiv](https://arxiv.org/abs/2512.15676)
 
 -   Fischer L. & **Sechidis K**.\
-    *Knockoffs for low dimensions: changing the nominal level post-hoc to gain power while controlling the FDR*\
+    *Choosing the nominal level post-hoc with knockoffs using e-values*\
     [arXiv](https://arxiv.org/abs/2511.11166)
 
 # 2025
