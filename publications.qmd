@@ -14,6 +14,10 @@ title: "Publications"
      *Data‑driven controlled subgroup selection in clinical trials*\
      [arXiv](https://arxiv.org/abs/2512.15676)
 
+-   Zhang C, Long M, Zheng T, **Sechidis K**, Liu X, Sun S, Chen Y, Zhang X, Kaneko S, Bornkamp B & Hou Y.\
+    *A Workflow for Evaluating Regional Treatment Effect Heterogeneity in Multi-Regional Clinical Trials*\
+    [arXiv](https://arxiv.org/abs/2605.16885)
+
 -   Fischer L. & **Sechidis K**.\
     *Choosing the nominal level post-hoc with knockoffs using e-values*\
     [arXiv](https://arxiv.org/abs/2511.11166)
