@@ -29,6 +29,7 @@ Hello, my name is Konstantinos (for short, Kostas) Sechidis and I am a machine l
 <sup> *Disclaimer: this is my personal page, the content is my own responsibility and it is not connected to/supported by any entity with which I have been, am now, or will be affiliated.* </sup>
 
 # News
+**Oct 2026**: Our paper on valid data‑driven subgroup selection with uniform guarantees in clinical trials is now published in Statistics in Medicine. Joint work with colleagues from the University of Cambridge, University of Edinburgh, Nanjing University, University of Southampton, Lancaster University and Novartis. [link](https://onlinelibrary.wiley.com/doi/10.1002/sim.70745)
 
 **Aug 2026**: On behalf of the [IAPR](https://iapr.org/) [Technical Committee on Statistical Pattern Recognition (TC1)](https://sites.google.com/view/iapr-tc1/home), I would like to announce that Prof. Bernhard Schölkopf (Max Planck Institute) has been selected as the recipient of the Pierre Devijver Award 2026. Bernhard will deliver a plenary talk in [S+SSPR 2026](https://ssspr2026.inf.unibe.ch/) workshop in Bern (August 24–26). Registration is still open. 
 
