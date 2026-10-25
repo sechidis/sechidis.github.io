@@ -2,6 +2,11 @@
 title: "Publications"
 ---
 # 2026
+-   Müller MM, Bornkamp B, Bretz F, Cannings TI, Liu W, Reeve HWJ, Samworth RJ, Sfikas N, Wan F & **Sechidis K**.\
+     *Valid data‑driven subgroup selection with uniform guarantees in clinical trials*\
+     **Statistics in Medicine** 45, no. 23-24 (2026): e70745, doi:[10.1002/sim.70745](https://doi.org/10.1002/sim.70745),
+     [arXiv](https://arxiv.org/abs/2512.15676)
+
 -   Chen Y, Sun S, **Sechidis K**, Zhang C, Hothorn T & Bornkamp B.\
     *Comparing Methods to Assess Treatment Effect Heterogeneity in General Parametric Regression Models*\
      **Statistics in Medicine** 45, no. 1-2 (2026): e70381, doi:[10.1002/sim.7038](https://doi.org/10.1002/sim.7038), [arXiv](https://arxiv.org/abs/2503.22548).
@@ -9,10 +14,6 @@ title: "Publications"
 -   Svensson D, Hermansson E, Nikolaou N, **Sechidis K** & Lipkovich I.\
     *Overview and practical recommendations on using Shapley Values for identifying predictive biomarkers via CATE modelings*\
      **Statistics in Medicine** 45, no. 1-2 (2026): e70375, doi:[10.1002/sim.70375](https://doi.org/10.1002/sim.70375), [arXiv](https://arxiv.org/abs/2505.01145).
-
--    Müller MM, Bornkamp B, Bretz F, Cannings TI, Liu W, Reeve HWJ, Samworth RJ, Sfikas N, Wan F & **Sechidis K**.\
-     *Data‑driven controlled subgroup selection in clinical trials*\
-     [arXiv](https://arxiv.org/abs/2512.15676)
 
 -   Zhang C, Long M, Zheng T, **Sechidis K**, Liu X, Sun S, Chen Y, Zhang X, Kaneko S, Bornkamp B & Hou Y.\
     *A Workflow for Evaluating Regional Treatment Effect Heterogeneity in Multi-Regional Clinical Trials*\
